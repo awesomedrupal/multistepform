@@ -1,4 +1,11 @@
+## Introduction
+
+This is multiple step form with React, Formik version 2 and Material UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Also the app is deployed in Netlify...
+https://awesome-snyder-2e6fa6.netlify.com/
 
 ## Available Scripts
 
